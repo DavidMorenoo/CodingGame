@@ -1,1 +1,1 @@
-# CodingGame
+# CodingGame coding problems
